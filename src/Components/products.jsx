@@ -1,0 +1,51 @@
+export const Products = [
+
+    {
+    id:1,
+    title:'Samsung s2a',
+    description:'black in color',
+    price:25000,
+    img:"images/m7.jpeg",
+    quantity:1,
+    },
+    {
+        id:2,
+        title:'apple laptop',
+        description:'black in shadow',
+        price:5000,
+        img:"images/m8.jpeg",
+        quantity:1,
+        },
+        {
+            id:3,
+            title:'android mobile',
+            description:'shape in color',
+            price:78000,
+            img:"images/m9.jpeg",
+            quantity:1,
+            },
+            {
+                id:4,
+                title:'Samsung s2a',
+                description:'black in color',
+                price:100000,
+                img:"images/m6.jpeg",
+                quantity:1,
+                },
+                {
+                    id:5,
+                    title:'Samsung s2a',
+                    description:'black in color',
+                    price:8000,
+                    img:"images/m5.jpeg",
+                    quantity:1,
+                    },
+                    {
+                        id:6,
+                        title:'Samsung s2a',
+                        description:'black in color',
+                        price:2000,
+                        img:"images/m10.jpeg",
+                        quantity:1,
+                        },
+]
